@@ -1,5 +1,10 @@
 [
   {
+    "nama_drama": "S Line (2025)",
+    "path": "/s-line-2025",
+    "gambar": "https://m.media-amazon.com/images/M/MV5BODVlYjY0YjUtZmVlYS00Y2RiLWIyZmUtODRjNjI3ZmQzMzlkXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg"
+  },
+  {
     "nama_drama": "Squdid Game (2025)",
     "path": "/squid-game-2021",
     "gambar": "https://m.media-amazon.com/images/M/MV5BYTU3ZDVhNmMtMDVlNC00MDc0LTgwNDMtYWE5MTI2ZGI4YWIwXkEyXkFqcGc@._V1_.jpg%22"
@@ -15,13 +20,8 @@
     "gambar": "https://m.media-amazon.com/images/M/MV5BYmE5NWNlOTMtMGY4MC00MTFiLWEzMjYtMDBmY2U1OTU0ZDBjXkEyXkFqcGc@._V1_FMjpg_UX680_.jpg"
   },
   {
-    "nama_drama": "While You Were Sleeping (2017)",
-    "path": "/while-you-were-sleeping-dangshini-jamdeun-saie-2017",
-    "gambar": "https://m.media-amazon.com/images/M/MV5BNGYwNDI3MTgtZWFhZi00NzlkLWI2MzktYzIwZGY0MWY2ZDlhXkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-    "nama_drama": "Extraordinary You (2019)",
-    "path": "/extraordinary-you-eojjeoda-balgyeonhan-haru-2019",
-    "gambar": "https://m.media-amazon.com/images/M/MV5BNzQwYzViZjYtOWEwNS00ZTcyLWE2MTYtM2FiYzkyZmIzMjI3XkEyXkFqcGc@._V1_.jpg"
+    "nama_drama": "Good Boy (2025)",
+    "path": "/good-boy-2025",
+    "gambar": "https://m.media-amazon.com/images/M/MV5BNjIyMTZkYTItMDMzYy00OTgwLWE1Y2MtNDdlZGZmOTZkMGMzXkEyXkFqcGc@._V1_.jpg"
   }
 ]
