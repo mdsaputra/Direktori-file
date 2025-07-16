@@ -1,0 +1,44 @@
+{
+  "bintang": [
+    {
+      "name": "Song Hye-kyo",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzE1NGFlZWUtOTg0OC00YzMxLTg3NjEtNTUzYWRkYWI5YzA4XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg"
+    },
+    {
+      "name": "Lee Dong-Wook",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmExOTczMmYtNmYyMS00MTkyLTkzNmYtZWZmOTEyYzhjYTU1XkEyXkFqcGc@._V1_FMjpg_UX960_.jpg"
+    },
+    {
+      "name": "Bae Suzy",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWE3MGU4MjctYjY1YS00MjJhLThjZjYtNDk5MDFhMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX720_.jpg"
+    },
+    {
+      "name": "Song Joong-Ki",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDdlNzZlMmItZWE4OC00YTVlLWE3NWYtZmJkNTgwNzc0N2I2XkEyXkFqcGc@._V1_FMjpg_UX1080_.jpg"
+    },
+    {
+      "name": "Kim Soo-hyun",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTI4ODA2YTEtOTE0NS00OTA5LWIwZTEtNzVmZTQyNzhmMjNjXkEyXkFqcGc@._V1_FMjpg_UY3750_.jpg"
+    },
+    {
+      "name": "Park Bo-Young",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWU4ZDQyODAtMTAzZC00NTFlLWJkOGMtNDk5NzA5MWI0MDFmXkEyXkFqcGc@._V1_FMjpg_UY1823_.jpg"
+    },
+    {
+      "name": "Moon Ga-young",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGVjOTE4MTUtMWRhMi00OTE0LWE5NDAtOGUxODc4YjczY2UyXkEyXkFqcGc@._V1_FMjpg_UY2036_.jpg"
+    },
+    {
+      "name": "Lee Jae-wook",
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JkN2I4YzMtOGE1NC00N2MyLThmOGItMWM0YjI1NWEyYTg1XkEyXkFqcGc@._V1_FMjpg_UX864_.jpg"
+    },
+    {
+      "name": "Kim Ji-Soo",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2U5NjY4YWQtYTEyNi00ZmYwLThjMWMtNjY2MDkzYmJjNDRhXkEyXkFqcGc@._V1_FMjpg_UY4905_.jpg"
+    },
+    {
+      "name": "Lee Min-Ho",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDRhYTMxZmEtODQ1MS00MDQzLWFiYTUtYWMzMWNlODkzY2E0XkEyXkFqcGc@._V1_FMjpg_UY4947_.jpg"
+    }
+  ]
+}
