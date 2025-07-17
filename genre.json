@@ -4,5 +4,6 @@
   {"name": "Sci-fi", "color": "#C5BFFF"},
   {"name": "Crime", "color": "#8B1E1E"},
   {"name": "Thriller", "color": "#7E7E7E"},
-  {"name": "Mystery", "color": "#6C69B8"}
+  {"name": "Mystery", "color": "#6C69B8"},
+  {"name": "Drama", "color": "#6C6924"}
 ]
