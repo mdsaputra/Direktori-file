@@ -1,5 +1,10 @@
 [
   {
+    "nama_drama": "Head Over Heels (2025)",
+    "path": "/head-over-heels-2025",
+    "gambar": "https://m.media-amazon.com/images/M/MV5BMmMyYmE1YzktMzU4OC00MWViLTk5M2UtNzcwOTFlMGE2MzIyXkEyXkFqcGc@._V1_FMjpg_UX1200_.jpg"
+  },
+  {
     "nama_drama": "S Line (2025)",
     "path": "/s-line-2025",
     "gambar": "https://m.media-amazon.com/images/M/MV5BODVlYjY0YjUtZmVlYS00Y2RiLWIyZmUtODRjNjI3ZmQzMzlkXkEyXkFqcGc@._V1_FMjpg_UY2048_.jpg"
@@ -13,11 +18,6 @@
     "nama_drama": "Bitch X Rich (2025)",
     "path": "/bitch-x-rich-2023",
     "gambar": "https://m.media-amazon.com/images/M/MV5BYTg5ODUxMGEtNWY3NS00MTVlLWI1MDEtNWJmZjBmZmViZTQyXkEyXkFqcGc@._V1_.jpg"
-  },
-  {
-    "nama_drama": "Resident Playbook (2025)",
-    "path": "/resident-playbook-2025",
-    "gambar": "https://m.media-amazon.com/images/M/MV5BYmE5NWNlOTMtMGY4MC00MTFiLWEzMjYtMDBmY2U1OTU0ZDBjXkEyXkFqcGc@._V1_FMjpg_UX680_.jpg"
   },
   {
     "nama_drama": "Good Boy (2025)",
